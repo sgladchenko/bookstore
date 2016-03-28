@@ -1,0 +1,174 @@
+body{
+	margin: 0;
+	}
+#up-header{
+	background: linear-gradient(to top, #323D4C, #384556);
+	width: 100%;
+	margin: 0%;
+	height: 20%;
+    position: relative;
+	box-shadow: 0px -7px 20px -7px #000000 inset;
+	}
+#up-header span {
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 0%;
+    width: 100%;
+	text-align: center;
+	font-family: calibri;
+	font-size: 36px;
+	color: #FEFEFE;
+	}
+#up-header span span{
+    display: block;
+    position: absolute;
+    top: -10%;
+    left: 0%;
+    width: 100%;
+	text-align: center;
+	font-family: calibri;
+	font-size: 48px;
+	color: #FEFEFE;
+	}
+#down-header{
+	width: 100%;
+	background-color: #3D6AA9;
+	height: 15%;
+	position: relative;
+	}
+#pt1{
+    display: block;
+    position: absolute;
+    top: 25%;
+    left: 2%;
+    width: 30%;
+	color: #FEFEFE;
+	font-family: calibri;
+	font-size: 24px;
+	}
+#pt2{
+    display: block;
+    position: absolute;
+    top: 25%;
+    width: 100%;
+	color: #FEFEFE;
+	font-family: calibri;
+	font-size: 24px;
+	}
+#pt3{
+    display: block;
+    position: absolute;
+    top: 25%;
+    right: 2%;
+    width: 30%;
+	color: #FEFEFE;
+	font-family: calibri;
+	font-size: 24px;
+	}
+#marked{
+    position: absolute;
+    top: -10%;
+    left: 0%;
+    width: 33%;
+	color: #FEFEFE;
+	font-family: calibri;
+	font-size: 24px;
+	background-color: #487CBF;
+	left: 33%;
+	height: 100%;
+	}
+#main-content{
+	position: absolute;
+	width: 100%;
+	height: 75%;
+	background-color: #FEFEFE;
+	top: 35%;
+	}
+#head{
+	position: relative;
+	top: 2%;
+	left: 1%;
+	width: 98%;
+	height: 17%;
+	background-color: #384556;
+	text-align: center;
+	font-family: calibri;
+	font-size: 24px;
+	color: #FEFEFE;
+	border-bottom: solid #3D6AA9 5px;
+	}
+#head span{
+	position: relative;
+	top: 20%;
+	height: 100%;
+	}
+#perspective{
+    position: absolute;
+    top: 33.55%;
+    left: 0%;
+    width: 33%;
+	left: 33%;
+	}
+#lessons{
+	position: absolute;
+	top: 20%;
+	width: 98%;
+	height: 75%;
+	background-color: #E6E6E6;
+	overflow-x: scroll;
+	overflow-y: hidden;
+	left: 1%;
+	}
+#lessons_child{
+	width: 300%;
+	position: relative;
+	padding: 7px;
+	}
+#lessons_child span{
+	margin: 10px;
+	}
+#footer{
+	position: absolute;
+	top: 110%;
+	width: 100%;
+	height: 5%;
+	background-color: #384556;
+	color: grey;
+	text-align: center;
+	font-family: calibri;
+	}
+#footer span{
+	position: relative;
+	top: 30%;
+	}
+#header-lesson{
+	position: absolute;
+	top: 22%;
+	width: 78%;
+	left: 2%;
+	background-color: #3D6AA9;
+	padding: 1%;
+	color: #FEFEFE;
+	font-family: calibri;
+	font-size: 24px;
+	}
+#main-lesson{
+	position: absolute;
+	top: 30.5%;
+	width: 78%;
+	left: 2%;
+	background-color: #FEFEFE;
+	padding: 1%;
+	color: #000000;
+	font-family: calibri;
+	font-size: 18px;
+	text-align: justify;
+	margin-bottom: 2%;
+	}
+#back{
+	position: absolute;
+	top: 22%;
+	right: 2%;
+	width: 8%;
+	}

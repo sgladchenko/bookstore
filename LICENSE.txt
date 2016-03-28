@@ -1,0 +1,26 @@
+﻿BookStore version 3.2.0
+
+Copyright © 2013-2015 Sergey Gladchenko, Anton Perepletchikoff. All rights reserved.
+
+=Russian=
+
+Данная программа реализована в 2013-2015 годах С.Гладченко и А.Переплетчиковым как shareware-продукт.
+При разработке были применены ресурсы исключительно открытого доступа.
+
+Каждому пользователю данного продукта разрешается пользоваться только тем функционалом, который реализован при разработке данного продукта.
+
+Данный продукт является собственностью С.Гладченко и А.Переплетчикова.
+Авторство на данный продукт также принадлежит С.Гладченко и А.Перпелетчикову.
+Запрещается удаление, копирование или изменение исходных кодов и конфигурационных файлов данного программного продукта.
+
+=English=
+
+This product was created in 2013-2015 years by S.Gladchenko and A.Perepletchikoff as shareware-product.
+For this product only open-sources were used.
+
+Every user of this product can use only functions which were realized in this product.
+
+This product is the property of S.Gladchenko and A.Perepletchikoff.
+And S.Gladchenko and A.Perepletchikoff have authorship of this product.
+Deleting, coping and editing of sources of this product are forbidden.
+
